@@ -15,7 +15,7 @@ Eksperimen dilakukan menggunakan strategi **Transfer Learning (Fine-tuning)** da
 
 | Model | Arsitektur Code (`timm`) | Deskripsi Singkat |
 | :--- | :--- | :--- |
-| **Swin Transformer** | `swin_tiny_patch4_window7_224` | Hierarchical Vision Transformer dengan Shifted Windows. |
+| **Swin Transformer (Tiny)** | `swin_tiny_patch4_window7_224` | Hierarchical Vision Transformer dengan Shifted Windows. |
 | **DeiT (Tiny)** | `deit_tiny_patch16_224` | Vision Transformer ringan dengan strategi Knowledge Distillation. |
 
 ## Struktur Repository
